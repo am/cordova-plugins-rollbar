@@ -82,7 +82,7 @@
         </config-file>
 
         <!-- copy Rollbar Lib -->
-        <source-file src="src/android/RollbarSDK/rollbar-android-0.1.2.jar" target-dir="libs/" framework="true"/>
+        <source-file src="src/android/RollbarSDK/rollbar-android-0.2.1.jar" target-dir="libs/" framework="true"/>
 
         <!-- cordova plugin src files -->
         <source-file src="src/android/resgrid/cordova/plugins/CDVRollbar.java" target-dir="src/resgrid/cordova/plugins/rollbar" />
@@ -90,4 +90,3 @@
     </platform>
 
 </plugin>
-
